@@ -61,7 +61,7 @@ Run in **virtualized environments only.**
 
 ## 🛠️ Build & Run
 
-> Requires: **.NET Framework 4.7.2+** or **.NET 6.0**, Visual Studio / MSBuild
+> Requires: **.NET Framework 4.7.2+** or **.NET 6.0**, Visual Studio / MSBuild / DevExpress 24.2
 
 ```bash
 git clone https://github.com/yourusername/nullpoint-stealer
