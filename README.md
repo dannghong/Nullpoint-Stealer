@@ -69,3 +69,7 @@ cd nullpoint-stealer
 Open the .sln in Visual Studio
 Build → Release Mode
 Run in a VM
+
+
+## TG
+https://t.me/nullpointst
